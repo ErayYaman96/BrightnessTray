@@ -1,6 +1,13 @@
 # BrightnessTray
 
 **Deutsch** | [English below](#english)
+<img width="762" height="678" alt="Screenshot 2026-11-17 213739" src="https://github.com/user-attachments/assets/d6adc0f0-84f7-4599-899f-c60c37861985" />
+<img width="762" height="678" alt="Screenshot 2026-11-17 213747" src="https://github.com/user-attachments/assets/aaa060d8-3637-44ef-8f1d-57913e4e4796" />
+<img width="762" height="678" alt="Screenshot 2026-11-17 213757" src="https://github.com/user-attachments/assets/23a5e6f6-6e80-4859-a4a1-51e38b7fa485" />
+<img width="762" height="678" alt="Screenshot 2026-11-17 213815" src="https://github.com/user-attachments/assets/c7079ed8-ca56-4077-93dd-e37e6b4f27ff" />
+<img width="762" height="678" alt="Screenshot 2026-11-17 213825" src="https://github.com/user-attachments/assets/890fb030-90ff-4dc1-a3e4-8d29cd743400" />
+<img width="762" height="678" alt="Screenshot 2026-11-17 213832" src="https://github.com/user-attachments/assets/b937d92c-bdbb-460e-a7a2-c83635c6a167" />
+<img width="317" height="231" alt="Screenshot 2026-11-17 213718" src="https://github.com/user-attachments/assets/e398bbd3-a154-4f23-9bc3-f3403af79eaa" />
 
 Kleines Windows-Tray-Programm, um die Helligkeit externer Monitore (und Laptop-Displays) bequem zu steuern – per Regler, Tastenkürzel, Mausrad, Zeitplan oder automatisch je nach Programm. Mit Blaulichtfilter.
 
@@ -111,4 +118,5 @@ If you like the app, a donation is very welcome:
 ## License
 
 MIT – see [LICENSE](LICENSE).
+<img width="762" height="678" alt="Screenshot 2026-11-17 213739" src="https://github.com/user-attachments/assets/6053f443-e55f-4e15-bd8b-0a4e2178a31b" />
 
