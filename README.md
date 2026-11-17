@@ -1,6 +1,7 @@
 # BrightnessTray
 
 **Deutsch** | [English below](#english)
+
 <img width="762" height="678" alt="Screenshot 2026-11-17 213739" src="https://github.com/user-attachments/assets/d6adc0f0-84f7-4599-899f-c60c37861985" />
 <img width="762" height="678" alt="Screenshot 2026-11-17 213747" src="https://github.com/user-attachments/assets/aaa060d8-3637-44ef-8f1d-57913e4e4796" />
 <img width="762" height="678" alt="Screenshot 2026-11-17 213757" src="https://github.com/user-attachments/assets/23a5e6f6-6e80-4859-a4a1-51e38b7fa485" />
