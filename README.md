@@ -51,7 +51,7 @@ oder manuell: `dotnet publish -c Release -r win-x64 --self-contained false -p:Pu
 
 Wenn dir das Programm gefällt, freue ich mich über eine Spende:
 
-**paypal.me/erayaman**
+**[PayPal](https://www.paypal.me/erayaman)**
 
 ## Lizenz
 
@@ -106,7 +106,7 @@ Requires the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0). Run
 
 If you like the app, a donation is very welcome:
 
-**paypal.me/erayaman**
+**[PayPal](https://www.paypal.me/erayaman)**
 
 ## License
 
